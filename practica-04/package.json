@@ -1,0 +1,22 @@
+{
+  "name": "practica-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "Web Scraping",
+    "Node.js",
+    "puppeteer"
+  ],
+  "author": "Victor Angel Cabrera del Angel",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^24.9.0"
+  }
+}

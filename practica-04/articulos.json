@@ -1,0 +1,1811 @@
+{
+  "articulos": [
+    {
+      "titulo": "Announcing Angular v20",
+      "texto": "The past couple of years have been transformative for Angular, as we’ve unleashed major advancements like reactivity with Signals and the…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:40:40/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "2d agoA clap icon1.6KA response icon20",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Build AI-Powered Apps With Genkit and Angular",
+      "texto": "There has never been a better time to start building with AI and the state-of-the-art models available to developers everywhere. Building…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+        "nombre": ""
+      },
+      "fecha": "Mar 17A clap icon208A response icon6",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Seamless data fetching with httpResource",
+      "texto": "Fantastic new APIs are coming to Angular. Two years ago, we proposed making Angular a reactive web framework powered by signals. Since…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:40:40/0*AlVzEVl10P09VRZx.jpg",
+        "nombre": ""
+      },
+      "fecha": "Mar 7A clap icon547A response icon8",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular 19.2 Is Now Available",
+      "texto": "And we’re back with Angular’s latest minor release, version 19.2, bringing new APIs and experimental features to empower developers on…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+        "nombre": ""
+      },
+      "fecha": "Mar 5A clap icon533A response icon12",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Micro Frontends with Angular and Native Federation",
+      "texto": "Enterprise-scale software systems are often implemented by several cross-functional teams. To enable such teams to provide new features…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:40:40/0*ie_F70F4bb0alhdm",
+        "nombre": ""
+      },
+      "fecha": "Feb 10A clap icon617A response icon11",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular 2025 Strategy",
+      "texto": "For the past two and a half years, we’ve been laser focused on improving developer experience and performance for all Angular developers…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:40:40/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jan 13A clap icon1.4KA response icon26",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Try Out the New Signal Input Migrations",
+      "texto": "Authors: Paul Gschwendtner Mark Thompson",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+        "nombre": ""
+      },
+      "fecha": "Jan 9A clap icon355A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Meet Angular v19",
+      "texto": "In the past two years we doubled down on our investment in developer experience and performance — in every single release we’ve been…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:40:40/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Nov 19, 2024A clap icon3.7KA response icon59",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular v19 Release: Join the Watch Parties!",
+      "texto": "The Angular v19 release is just around the corner, and developers around the world are gearing up to celebrate.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+        "nombre": ""
+      },
+      "fecha": "Nov 14, 2024A clap icon266A response icon3",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Latest updates to effect() in Angular",
+      "texto": "Authors: Alex Rickabaugh Mark Thompson",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+        "nombre": ""
+      },
+      "fecha": "Oct 7, 2024A clap icon635A response icon1",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "The future is standalone!",
+      "texto": "Angular v19 will make standalone: true the default for components, directives, and pipes.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*yNCBVxf7m7JX0QAJQBEEAA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Sep 3, 2024A clap icon1.4KA response icon9",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Using isolatedModules in Angular 18.2",
+      "texto": "Authors: Mark Thompson Charles Lyding",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+        "nombre": ""
+      },
+      "fecha": "Aug 19, 2024A clap icon573A response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "The Future of Material Support in Angular",
+      "texto": "Authors: Mark Thompson Jeremy Elbourn",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+        "nombre": ""
+      },
+      "fecha": "Jul 19, 2024A clap icon625A response icon10",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Immerse Yourself in Generative Art: An Angular WebXR Adventure",
+      "texto": "If you missed the Google I/O Angular session, you missed not only the latest updates on Angular but also the Generative Art Gallery demo…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*_OCcPkqMCGKIn1l0_1Eu2A.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jul 16, 2024A clap icon134A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Introducing @let in Angular",
+      "texto": "Authors: Mark Thompson, Kristiyan Kostadinov",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+        "nombre": ""
+      },
+      "fecha": "Jul 10, 2024A clap icon1KA response icon18",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular v18 is now available!",
+      "texto": "Today we are excited to share the next milestone in the evolution of Angular! Over the past three releases we’ve introduced a lot of new…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "May 22, 2024A clap icon5.3KA response icon36",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Event Dispatch in Angular",
+      "texto": "Authors: Jatin Ramanathan, Tom Wilkinson",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+        "nombre": ""
+      },
+      "fecha": "Apr 22, 2024A clap icon453A response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular and Wiz Are Better Together",
+      "texto": "Authors: Jatin Ramanathan, Minko Gechev",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+        "nombre": ""
+      },
+      "fecha": "Mar 29, 2024A clap icon1.5KA response icon13",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Meet Angular’s new output() API",
+      "texto": "Angular v17.3 introduces the improved API for declaring outputs as a developer preview.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*Tfro-yWzkmOgRGboztdEYA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Mar 27, 2024A clap icon778A response icon9",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular with NativeScript: Creating the Blackout Lighting Console",
+      "texto": "Lighting consoles are electronic devices used in theatrical lighting design to control multiple stage lights at once. Traditionally…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*v1sQabUPZ9Yj5PWqrNf5_A.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Mar 18, 2024A clap icon579A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Signal inputs available in developer preview",
+      "texto": "The new inputs provide developers with new ways that:",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*Tfro-yWzkmOgRGboztdEYA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Feb 22, 2024A clap icon789A response icon14",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular v17.2 is now available",
+      "texto": "We rarely write blog posts about minor releases, but today we have a few surprises for you — experimental support for Material 3, signal…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Feb 14, 2024A clap icon1.7KA response icon11",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Material 3 Experimental Support in Angular 17.2",
+      "texto": "We’re thrilled to announce that Angular 17.2 features experimental support for Material 3 theming in Angular Material.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*WgvQqqTBK_oTlTkIo8tsRQ.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Feb 14, 2024A clap icon1.1KA response icon18",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular Developer Survey 2023",
+      "texto": "Over the past year we’ve been evolving Angular based on developer feedback and community trends. We receive developer feedback from dozens…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jan 3, 2024A clap icon964A response icon10",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Check out Angular’s support for the View Transitions API",
+      "texto": "When a user navigates from one route to another, the Angular Router maps the URL path to the relevant component and displays its view…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*280lqQqDAyswE-MC",
+        "nombre": ""
+      },
+      "fecha": "Dec 13, 2023A clap icon465A response icon1",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Use Angular’s New Deferrable Views Now",
+      "texto": "The Angular community has asked for an intuitive, built-in method to lazy load components, directives, and pipes. In Angular v17, we’ve…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*xb7qMsAbmwzmFOEopp_K-Q.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Dec 1, 2023A clap icon1KA response icon6",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Introducing Angular v17",
+      "texto": "Last month marked the 13th anniversary of Angular’s red shield. AngularJS was the starting point for a new wave of JavaScript frameworks…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Nov 8, 2023A clap icon5.1KA response icon51",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Announcing Angular.dev",
+      "texto": "Today, we are excited to launch Angular.dev — the future home for Angular developers.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Nov 6, 2023A clap icon2.5KA response icon22",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Some big things are happening next week on November 6th 🎉",
+      "texto": "We’ve been hard at work on some very special updates to Angular. You don’t want to miss what we have planned.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Nov 3, 2023A clap icon261A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Meet Angular’s New Control Flow",
+      "texto": "This November, we’ll release Angular version 17 with a number of new template features, including a new built-in syntax for control flow…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*yNCBVxf7m7JX0QAJQBEEAA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Sep 25, 2023A clap icon1.4KA response icon33",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Incremental Static Regeneration for Angular",
+      "texto": "In Angular v16 we got a new hydration system. It was also hinted that experiments for partial hydration and resumability are in the works…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*LFs2zwHSvvAuJzTH2I3FIQ.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Sep 14, 2023A clap icon694A response icon3",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "New free, interactive Angular course for beginners on Sololearn",
+      "texto": "We are delighted to announce that we’ve collaborated with the online interactive code learning platform Sololearn to develop an…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Sep 7, 2023A clap icon417A response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Protractor Deprecation Update August 2023",
+      "texto": "TLDR;",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Aug 28, 2023A clap icon123A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Notice of XSS issue affecting Angular Universal 16.1.0–16.1.1",
+      "texto": "We just released a fix for a bug that could potentially cause an XSS vulnerability in the Critters library that Angular uses for CSS…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Aug 4, 2023A clap icon137",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular at Google I/O 2023",
+      "texto": "Google I/O 2023’s flagship event happened last month, and Angular had a ton of fun announcing Angular v16!",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Jun 6, 2023A clap icon311A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular Developer Survey 2022 Results Summary",
+      "texto": "The Angular team is evidence driven — we collect feedback from developers to decide what should be part of our roadmap. We get data from…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "May 23, 2023A clap icon742A response icon9",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular v16 is here!",
+      "texto": "Six months ago, we reached a significant milestone in Angular’s simplicity and developer experience by graduating the standalone APIs from…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "May 3, 2023A clap icon5.8KA response icon38",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Moving Angular CLI to Jest and Web Test Runner",
+      "texto": "We are excited to announce that we are adding initial experimental support for Jest, with Web Test Runner support coming in the future.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*9jpxZxy-bhSS_VDhkVnWXQ.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Apr 27, 2023A clap icon465A response icon8",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "What’s next for Server Side Rendering in Angular",
+      "texto": "In May of 2022, we shared Angular’s vision for the future, where we committed to investing in server side rendering and hydration. Angular…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*xb7qMsAbmwzmFOEopp_K-Q.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Apr 17, 2023A clap icon745A response icon7",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Write better tests without Router mocks/stubs",
+      "texto": "Prior advice",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*280lqQqDAyswE-MC",
+        "nombre": ""
+      },
+      "fecha": "Mar 2, 2023A clap icon285A response icon1",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular v15 is now available!",
+      "texto": "Over the past year we removed Angular’s legacy compiler and rendering pipeline which enabled the development of a series of developer…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Nov 16, 2022A clap icon4.4KA response icon37",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Advancements in the Angular Router",
+      "texto": "The Angular team has been busy making some meaningful updates to the Angular router that are available as of Angular v14.2. We’re pleased…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*280lqQqDAyswE-MC",
+        "nombre": ""
+      },
+      "fecha": "Oct 25, 2022A clap icon729A response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Modern CSS in Angular: Layouts",
+      "texto": "This week, we tackle layouts.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Oct 18, 2022A clap icon989A response icon34",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "The State of end-to-end testing with Angular",
+      "texto": "In the Angular v12 release blog post we announced plans to investigate the future of Protractor.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Aug 10, 2022A clap icon537A response icon10",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular v14 is now available!",
+      "texto": "We are excited to announce the release of Angular v14! From typed forms and standalone components to new primitives in the Angular CDK…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Jun 2, 2022A clap icon2.6KA response icon23",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular’s Vision for the Future",
+      "texto": "In the Angular 2021 recap and 2022 preview post, we shared our plans for 2022. As we are almost midway through 2022, this is a great time…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*HELihQhqNYhyoTkZtxNSvg.png",
+        "nombre": ""
+      },
+      "fecha": "May 24, 2022A clap icon1KA response icon9",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular at I/O 2022",
+      "texto": "At I/O 2021 we had a blast announcing Angular DevTools and letting you use it in the Adventure world! We talked to hundreds of developers…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Apr 29, 2022A clap icon449A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Developer Survey 2021 Results",
+      "texto": "Earlier this year, we ran our annual developer survey. We received nearly 25k responses and want to thank each and everyone of you for…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Apr 13, 2022A clap icon669A response icon8",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "An Update on Standalone Components",
+      "texto": "(and directives and pipes!)",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*yNCBVxf7m7JX0QAJQBEEAA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Apr 6, 2022A clap icon653A response icon6",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular Extended Diagnostics",
+      "texto": "A deep-dive into Angular 13.2’s new extended diagnostics feature, what they are, how they work, and their future in the Angular ecosystem.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*9jpxZxy-bhSS_VDhkVnWXQ.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Mar 9, 2022A clap icon141A response icon3",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "How the Angular Compiler Works",
+      "texto": "The Angular Compiler (which we call ngc) is the tool used to compile Angular applications and libraries. ngc is built on the TypeScript…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*yNCBVxf7m7JX0QAJQBEEAA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Feb 9, 2022A clap icon1.1KA response icon8",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular 2021 Recap and 2022 Preview",
+      "texto": "Happy New Year! 2021 was a difficult year for everyone around the globe but as a community we’ve managed to stick together and continue to…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jan 20, 2022A clap icon448A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Typed Forms: The RFC Is Here",
+      "texto": "For five years, strong types in the Forms package have been a top feature request. Issue (#13721) is the most popular issue of all time on…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*ZcytItc1C2QVQxsTWdMkrg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jan 13, 2022A clap icon533A response icon3",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Discontinued Long Term Support for AngularJS",
+      "texto": "In January of 2018 we laid out our plans for the final releases of AngularJS before entering long-term support and last year, we extended…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jan 11, 2022A clap icon735A response icon6",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Thank you, Angular",
+      "texto": "",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*4261814mL-tv2a81kIcl5w.png",
+        "nombre": ""
+      },
+      "fecha": "Nov 30, 2021A clap icon1.97KA response icon15",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "The [New] State of CSS in Angular",
+      "texto": "It’s been a few years since we last covered CSS on this blog — and a lot has happened since then!",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Nov 16, 2021A clap icon1.8KA response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular v13 is now Available",
+      "texto": "We’re back with the brand new release of Angular v13 to share with all of you! This latest release brings all sorts of updates and features…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Nov 3, 2021A clap icon3.7KA response icon22",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Improving Angular Component’s accessibility",
+      "texto": "The outcome is better, more accessible components…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Oct 27, 2021A clap icon456A response icon3",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Build more accessible Angular apps",
+      "texto": "During #GoogleIO2021, we released a new Angular codelab focused on accessibility. In this post we’ll walk through ten tools for building…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Jun 9, 2021A clap icon680A response icon7",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "New Feature Request Process",
+      "texto": "Among the most significant advantages of working on a popular open codebase is the constant feedback stream in all forms, including GitHub…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "May 27, 2021A clap icon673A response icon9",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Introducing Angular DevTools",
+      "texto": "We’re thrilled to announce Angular DevTools — a Chrome DevTools extension that you can use to inspect the structure of your applications…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "May 18, 2021A clap icon3.2KA response icon22",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular v12 is now available",
+      "texto": "It’s that time again, friends — we’re back with a new release and we can’t wait to share all the great updates and features waiting for…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "May 12, 2021A clap icon5.2KA response icon30",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Upcoming improvements to Angular library distribution",
+      "texto": "TLDR; In v12, we’ll deprecate our legacy compilation and rendering pipeline called View Engine. This change will not require any action by…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Apr 23, 2021A clap icon886A response icon1",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Nishu Goel: The journey to GDE",
+      "texto": "#WomenAreExperts is a series that features their stories and achievements, with an aim to inspire more women to follow their path.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Mar 26, 2021A clap icon252A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Alyssa Nicoll: A love story — The Web & I",
+      "texto": "#WomenAreExperts is a series that features their stories and achievements, with an aim to inspire more women to follow their path.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Mar 19, 2021A clap icon264A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Natalia Venditto: Architecting a career in Angular",
+      "texto": "#WomenAreExperts is a series that features their stories and achievements, with an aim to inspire more women to follow their path.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Mar 12, 2021A clap icon272A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Tracy Lee: The superpower of becoming an Expert",
+      "texto": "#WomenAreExperts is a series that features their stories and achievements, with an aim to inspire more women to follow their path.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Mar 5, 2021A clap icon432",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Ivy’s internal data structures",
+      "texto": "I thought it would be useful to dive into Angular’s new Ivy rendering engine’s inner workings. In this article, I would like to stay high…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*Ay3pTMoAdPslK60kNCbBhg.png",
+        "nombre": ""
+      },
+      "fecha": "Mar 3, 2021A clap icon1.2KA response icon9",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "With Best Practices from the Start",
+      "texto": "One of the highest priorities for Angular is to enable best practices from the start. We want you to feel comfortable building a large…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Feb 18, 2021A clap icon1.5KA response icon8",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Under the Hood of the Language Service",
+      "texto": "State of the Language Service",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*yNCBVxf7m7JX0QAJQBEEAA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Feb 4, 2021A clap icon561A response icon5",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Finding a Path Forward with AngularJs",
+      "texto": "In January of 2018 we laid out our plans for the final releases of AngularJS before entering long term support. Then in July 2020 we…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Feb 1, 2021A clap icon223A response icon3",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular Debugging Guides",
+      "texto": "The best part of coding is when something works on the first try. The next best thing is knowing how to debug errors when things don’t…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lw25USWxDjT-i0kV",
+        "nombre": ""
+      },
+      "fecha": "Jan 26, 2021A clap icon1.3KA response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "How to file an issue",
+      "texto": "Knowing how to file an issue with “the right information” may be the difference between it getting resolved immediately or never getting…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*Ay3pTMoAdPslK60kNCbBhg.png",
+        "nombre": ""
+      },
+      "fecha": "Jan 19, 2021A clap icon153A response icon1",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular Thoughts on Docs: Looking Back, Looking Ahead",
+      "texto": "As the last quarter of 2020 comes to an end, it’s a good opportunity to look back on some of the work we’ve done with the Angular…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*4TOhEr61ZxS_5OhQSBUJaw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jan 11, 2021A clap icon406A response icon8",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Developer Survey 2020 Results",
+      "texto": "Earlier this year, we ran our annual developer survey. We want to thank you for the close to 30k responses, which will help us make…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Dec 15, 2020A clap icon976A response icon3",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Version 11 of Angular Now Available",
+      "texto": "Version 11.0.0 is here and we’ve got some great updates for Angular developers everywhere.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Nov 11, 2020A clap icon4.1KA response icon12",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Giving material.angular.io a refresh",
+      "texto": "If you have recently visited the Angular Materials documentation site you will have noticed some new visual updates.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*RKlZoCMGnnHAyKEE",
+        "nombre": ""
+      },
+      "fecha": "Oct 7, 2020A clap icon1.1KA response icon10",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular Thoughts on Docs",
+      "texto": "If you have visited the docs at angular.io lately, you might have noticed some changes in our content layout and structure. As the lead…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*4TOhEr61ZxS_5OhQSBUJaw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Sep 18, 2020A clap icon945A response icon9",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular localization with Ivy",
+      "texto": "Part of the new Angular rendering engine, Ivy, included a new approach to localizing applications — specifically extracting and…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*H02C2-oYlIgXX0aT.",
+        "nombre": ""
+      },
+      "fecha": "Sep 9, 2020A clap icon976A response icon9",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Summer 2020 Internship With the Angular Team",
+      "texto": "TL;DR Our interns were phenomenal! Read on to find out why.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Sep 2, 2020A clap icon191",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Ionic + Angular: Powering the App store and the web",
+      "texto": "Did you know Ionic and Angular power roughly 10% of the apps on iOS and almost 20% of apps on Android? Let’s repeat that: Angular powers a…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/2*zGOPlEqPjkOlj-7ff-vQQg.png",
+        "nombre": ""
+      },
+      "fecha": "Aug 31, 2020A clap icon734A response icon6",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular CLI Strict Mode",
+      "texto": "In Angular, we strongly believe in consistency and best practices. For example, we adopted TypeScript in its early days because we wanted…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Aug 26, 2020A clap icon1.1KA response icon12",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "How I contributed to Angular Components",
+      "texto": "In this post, I want to share my experience and lessons learned contributing to @angular/components and collaborating with the team at…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/2*kq691jyFdLJRAGCSRULSGQ.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Aug 24, 2020A clap icon750A response icon3",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "AngularJS LTS Extended in response to COVID-19",
+      "texto": "Back on July 27th, via the official Twitter account, we announced that in response to COVID-19 the team will extend AngularJS LTS by 6…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*2hqK0rVXWghtk_RLFx33oA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Aug 17, 2020A clap icon248A response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "A Roadmap for Angular",
+      "texto": "At the beginning of 2020 at ng-conf Hardwired, I talked about how we were evolving the team, improving our processes, and working to build…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*lJ-dtpVG9K1X0w5p",
+        "nombre": ""
+      },
+      "fecha": "Aug 5, 2020A clap icon1.8KA response icon8",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Version 10 of Angular Now Available",
+      "texto": "Version 10.0.0 is here! This is a major release that spans the entire platform, including the framework, Angular Material, and the CLI…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jun 24, 2020A clap icon5.7KA response icon28",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Leveraging Angular Prereleases to keep Ionic in Sync",
+      "texto": "Unlike other open source projects, Angular tries to bring a new major release at least twice a year. With each new release, Angular stands…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/2*zGOPlEqPjkOlj-7ff-vQQg.png",
+        "nombre": ""
+      },
+      "fecha": "Jun 23, 2020A clap icon320A response icon1",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "The Angular Developer Survey",
+      "texto": "The 2020 Angular Developer Survey ends this week! If you haven’t already, please complete the survey now. It takes only about a minute (82…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Apr 21, 2020A clap icon554A response icon9",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Version 9.1 of Angular Now Available — TypeScript 3.8, faster builds, and more",
+      "texto": "We just released Version 9.1 of Angular. This is a minor release of the framework and the CLI that is a drop-in replacement for 9.0…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Mar 25, 2020A clap icon2.4KA response icon16",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Version 9 of Angular Now Available— Project Ivy has arrived!",
+      "texto": "The 9.0.0 release of Angular is here! This is a major release that spans the entire platform, including the framework, Angular Material…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Feb 6, 2020A clap icon11.8KA response icon35",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "When your dependencies break your software, wouldn’t you like them to fix it?",
+      "texto": "In this article we want to share how we at Allianz Global Digital Factory (GDF) use the tooling of Angular to keep our ecosystem in sync…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/2*yZywBLVWsNmhCTBK28OBzg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Nov 27, 2019A clap icon714A response icon1",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Building Accessibility in Angular Applications",
+      "texto": "Accessibility should never be an afterthought! Everyone should be a stakeholder in it; developers, designers, and of course the testers.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*9qjpVtHsuY1FuM93vK9Ihw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Nov 6, 2019A clap icon748A response icon1",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Announcing the Capacitor ngAdd Schematic",
+      "texto": "Today, we at Ionic are happy to share the release of Angular Schematics for Capacitor. Let’s take a look at what Capacitor is and how to…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/2*zGOPlEqPjkOlj-7ff-vQQg.png",
+        "nombre": ""
+      },
+      "fecha": "Oct 24, 2019A clap icon532A response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "The Angular Team @ AngularConnect 2019",
+      "texto": "It was our pleasure to attend AngularConnect again this year and to talk to hundreds of amazing engineers.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Oct 17, 2019A clap icon526A response icon1",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Hack for Good",
+      "texto": "The Angular and NativeScript teams teamed up to organise Hack For Good — an online hackathon with prizes.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*Uk2Rn0gKNX2MoNQu.",
+        "nombre": ""
+      },
+      "fecha": "Oct 14, 2019A clap icon113",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Perspectives from Contributing to Angular",
+      "texto": "This past summer I had the privilege of being a part of the Angular Team at Google, where I worked on source code indexers. I developed an…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/2*apjp5WMHRTj5cYc8xHWmpA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Sep 9, 2019A clap icon637A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular Tools for High Performance",
+      "texto": "This post, contains a list of new tools and practices that can help us build faster Angular apps and monitor their performance over time…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Aug 28, 2019A clap icon2.3KA response icon10",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular Interns Summer 2019",
+      "texto": "The Angular team believes that people are essential to building great technology, and so we are taking part in Google’s 2019 intern…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Aug 1, 2019A clap icon664A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Prototyping with Angular",
+      "texto": "Since joining Google a year ago, I’ve been using Angular every day to build realistic, front-end prototypes. I’ve used these prototypes to…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/2*LOvrFbNrif45kntVzOuK-g.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jun 26, 2019A clap icon1.91KA response icon6",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Try Bazel’s opt-in preview in Angular CLI",
+      "texto": "In Google we build all our software with a tool called Bazel. We’ve been using it for the past over 12 years to build projects with any…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jun 21, 2019A clap icon1.3KA response icon7",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "It’s time for the compatibility opt-in preview of Ivy!",
+      "texto": "We’re looking for developers willing to give new things a try (with a few rough edges) and who want to share their experiences with us. If…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jun 7, 2019A clap icon1.2KA response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Version 8 of Angular — Smaller bundles, CLI APIs, and alignment with the ecosystem",
+      "texto": "The 8.0.0 release of Angular is here! This is a major release spanning the entire platform, including the core framework, Angular Material…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "May 28, 2019A clap icon7.4KA response icon27",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Introducing CLI Builders",
+      "texto": "In this blog post, we’re going to look at a new API in Angular CLI, which allows you to add CLI features and augment existing ones. We’ll…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*Lwm0vrKOqlvJT6vj.jpg",
+        "nombre": ""
+      },
+      "fecha": "Apr 23, 2019A clap icon1.5KA response icon6",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Building a transaction service for managing large scale editing experiences",
+      "texto": "A common challenge developers have to tackle when building applications consuming large data sets, is how to create a maintainable and…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*-nea87aY37h8dlOJPiZQig.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Mar 19, 2019A clap icon1.4KA response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "A plan for version 8.0 and Ivy",
+      "texto": "“When will Ivy be ready?” is a question we get asked every week. Here’s an update on how things are going with version 8.0, and our plans…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Feb 8, 2019A clap icon5.7KA response icon18",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Nebular meets Angular CDK",
+      "texto": "A short while ago our team released a stable version of Nebular. Nebular is an Angular library that simplifies complex rich UI…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*IcUkTJnEFvnEvKGP",
+        "nombre": ""
+      },
+      "fecha": "Jan 31, 2019A clap icon1.1KA response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular Console",
+      "texto": "What is it and why is it valuable for you?",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*EeE4xD7bbH8gs3xqzgqYeA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Dec 4, 2018A clap icon975A response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Version 7 of Angular — CLI Prompts, Virtual Scroll, Drag and Drop and more",
+      "texto": "The 7.0.0 release of Angular is here! This is a major release spanning the entire platform, including the core framework, Angular Material…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Oct 18, 2018A clap icon18.3KA response icon49",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular Schematics: Unit Testing",
+      "texto": "Building Schematics can be magical. With very little code you can build large structures that can be replicated over multiple projects. As…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*383BxDvzQjfPvWC2.",
+        "nombre": ""
+      },
+      "fecha": "Sep 13, 2018A clap icon893A response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Creating a successful meetup at your company",
+      "texto": "At Tesla, I came up with an idea to hold monthly Web Development meetups where employees could learn from each other and the external…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*M2MbIuZJyorTyg9k8uUc4A.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Sep 7, 2018A clap icon881A response icon14",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Apps That Work Natively on the Web and Mobile",
+      "texto": "Today we’re happy to announce an exciting new way to build web and mobile apps with Angular and NativeScript.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*Uk2Rn0gKNX2MoNQu.",
+        "nombre": ""
+      },
+      "fecha": "Aug 22, 2018A clap icon4.3KA response icon25",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "2 New Tools to help with AngularJS to Angular Migrations",
+      "texto": "Awesome new resources and tools to help migrate from AngularJS to Angular",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*BOS5WAPD9ovb9ih8atXxGg.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Aug 14, 2018A clap icon1KA response icon5",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Google announces Grab and Go program for Chromebooks, powered by Angular",
+      "texto": "Google announces Grab and Go program for Chromebooks, powered by Angular",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*1_EjsRjH5J7sq4W2FwgglA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Aug 3, 2018A clap icon451A response icon1",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "What’s New in WebStorm for Angular",
+      "texto": "The most recent release of Angular adds lots of new features to the CLI that make it easier for you to update and add new features to your…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*DXCCRVRJNr33f3HnX3BHwA.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jul 30, 2018A clap icon1.1KA response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more",
+      "texto": "Angular version 6.1 has been released. This is a minor release that is a drop-in replacement for 6.0 containing new features and bugfixes.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jul 25, 2018A clap icon3.3KA response icon13",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Datepicking Beyond the Gregorian Calendar",
+      "texto": "In this blog post, I would like to tell you about our work at the Digital Humanities Lab (DHLab) at the University of Basel, Switzerland…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*fdqA0boEXV2Wmj7raEIHmw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jul 12, 2018A clap icon301A response icon2",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Moving Design Beyond Pictures",
+      "texto": "Quickly create real Angular prototypes without writing code.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*R6XevbHLpB_FtNtxUXC8aA.png",
+        "nombre": ""
+      },
+      "fecha": "Jun 6, 2018A clap icon4.1KA response icon43",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Version 6 of Angular Now Available",
+      "texto": "The 6.0.0 release of Angular is here! This is a major release focused less on the underlying framework, and more on the toolchain and on…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "May 3, 2018A clap icon32KA response icon86",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Trip report from ng-conf 2018",
+      "texto": "A few of the Angular team members were able to attend and present at ng-conf this year. We owe a huge thank you to the organizers for…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Apr 30, 2018A clap icon1.1KA response icon4",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Top 3 Things Charter Learned About Reusable Designs and Components",
+      "texto": "This is a guest post by Geoffrey Cullins, Sr. Director, Portal App Development at Charter Communications.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*dW24gcbOUc4FajxMfi0q5w.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Apr 13, 2018A clap icon633A response icon7",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Trip report from ngAtlanta: Angular’s Roadmap, Inclusion, and more",
+      "texto": "Last month I had the opportunity to speak at the ngAtlanta conference where I covered major parts of Angular’s 2018 roadmap and shared what…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*YmVb-s-hiC1uKLlA.jpg",
+        "nombre": ""
+      },
+      "fecha": "Feb 22, 2018A clap icon2KA response icon6",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Run Angular CLI repos directly in your browser",
+      "texto": "Github is the source of truth for most Angular demos, examples, prototypes, and “real world” projects. However, downloading & initializing…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/2*2tCYD-st3YiKRlGSrFgj0w.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Feb 9, 2018A clap icon5.7KA response icon31",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "File uploads come to AngularFire",
+      "texto": "Cloud Storage for Firebase is a serverless way to upload and download binary files straight from the browser. As of today, it’s officially…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*0Ljy2URRXlVZ897pRwRtZQ.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Feb 2, 2018A clap icon2.3KA response icon5",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Schematics — An Introduction",
+      "texto": "Schematics is a workflow tool for the modern web; it can apply transforms to your project, such as create a new component, or updating your…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*Lwm0vrKOqlvJT6vj.jpg",
+        "nombre": ""
+      },
+      "fecha": "Jan 31, 2018A clap icon4.8KA response icon43",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Stable AngularJS and Long Term Support",
+      "texto": "AngularJS is planning one more significant release, version 1.7, and on July 1, 2018 it will enter a 3 year Long Term Support period.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*H02C2-oYlIgXX0aT.",
+        "nombre": ""
+      },
+      "fecha": "Jan 26, 2018A clap icon4.7KA response icon33",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "A Component Dev Kit for Angular",
+      "texto": "Modern web development is all about components. Angular gives developers a way to define these discrete chunks of UI and then compose them…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*mGN3W66VNh_78HAvI0R5fw.png",
+        "nombre": ""
+      },
+      "fecha": "Jan 23, 2018A clap icon3.6KA response icon10",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular 5.2 Now Available",
+      "texto": "Angular version 5.2.0 has been released. This is a minor release that is a drop-in replacement for 5.1 containing many bugfixes.",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jan 10, 2018A clap icon3.9KA response icon12",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular Developer Survey 2018",
+      "texto": "We just launched a short survey! This survey is designed to give you an opportunity to share your experiences, successes, and challenges…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jan 5, 2018A clap icon1KA response icon9",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular 5.1 & More Now Available",
+      "texto": "We are pleased to announce version 5.1.0 of Angular. This is a minor release containing several smaller features and bugfixes. We are also…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Dec 6, 2017A clap icon8.3KA response icon26",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Version 5.0.0 of Angular Now Available",
+      "texto": "We are pleased to announce version 5.0.0 of Angular, pentagonal-donut. This is a major release containing new features and bugfixes. This…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Nov 1, 2017A clap icon28KA response icon63",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "The Angular Team at AngularMix",
+      "texto": "Several members of the Angular Team were able to attend AngularMix last week. All of the conferences (including ng-conf and Angular…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Oct 16, 2017A clap icon2.1KA response icon5",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Improved Querying and Offline Data with AngularFirestore",
+      "texto": "The Firebase team is launching a brand new a fully-managed NoSQL document database: Cloud Firestore, and we’re happy to announce full…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*0Ljy2URRXlVZ897pRwRtZQ.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Oct 3, 2017A clap icon1.96KA response icon9",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "3 Tips for Angular Runtime Performance from the Real World",
+      "texto": "Co-authored by Andrew Wiens",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*BY0U-PzLU7jVHl4G.",
+        "nombre": ""
+      },
+      "fecha": "Oct 2, 2017A clap icon3.2KA response icon12",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "The Past, Present, and Future of the Angular CLI",
+      "texto": "The Angular CLI is a command-line interface for building Angular applications, and over the last year it has become one of the most…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Sep 20, 2017A clap icon4.6KA response icon28",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Taking Advantage of the Angular Material Datepicker",
+      "texto": "The datepicker is one of the newest components in Angular Material (added in May 2017). Our goal in creating the Angular Material…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*WgvQqqTBK_oTlTkIo8tsRQ.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Aug 11, 2017A clap icon1.2KA response icon14",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "The State of CSS in Angular",
+      "texto": "Styling applications is a critical part of delivering great experiences for users. Across the web we have Cascading Style Sheets (CSS) as a…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Aug 2, 2017A clap icon1.7KA response icon13",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "An Upgrade Path to Angular at Thomson Reuters",
+      "texto": "Stephen Fluin: This is a guest post from David Owen, who is a leader of front-end strategy at Thomson Reuters",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*Ie4hAWrNxZs7N_wjBlqOEw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jul 31, 2017A clap icon311A response icon3",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Announcing NgRx 4",
+      "texto": "Rob Wormald: This is a guest post from Victor Savkin of the NgRx core team. NgRx is suite of libraries that empower Angular developers to…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/0*tt0Xl65GxVxKWWLM.png",
+        "nombre": ""
+      },
+      "fecha": "Jul 18, 2017A clap icon1KA response icon3",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    },
+    {
+      "titulo": "Angular 4.3 Now Available",
+      "texto": "Angular version 4.3 has been released. This is a minor release following our announced adoption of Semantic Versioning, meaning that it…",
+      "autor": {
+        "link": "https://miro.medium.com/v2/resize:fill:20:20/1*y_L34o3bW0QELQm1KOFMTw.jpeg",
+        "nombre": ""
+      },
+      "fecha": "Jul 18, 2017A clap icon420A response icon10",
+      "reacciones": {
+        "likes": 0,
+        "comentarios": 0
+      }
+    }
+  ]
+}
